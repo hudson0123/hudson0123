@@ -8,7 +8,7 @@ I am currently a SWE at [Nymbus](https://nymbus.com/). I enjoy building fullstac
   
   [Frontend Repo](https://github.com/hudson0123/ticket-swap-frontend) [Backend Repo](https://github.com/hudson0123/ticket-swap-backend)
 
-
+[![Hudson's Stats](https://github-readme-stats.vercel.app/api?username=hudson0123)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 📫 Reach me at hudsonodonnell2004@gmail.com
 <!---
