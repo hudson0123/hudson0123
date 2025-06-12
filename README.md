@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hudson O'Donnell
 
-I am currently a SWE at [Nymbus](https://nymbus.com/). I enjoy building full-stack development, especially in Python and JavaScript.
+I am currently a SWE at [Nymbus](https://nymbus.com/). I enjoy full-stack development, especially in Python and JavaScript.
 
 ### Projects
 
