@@ -5,8 +5,6 @@ I am currently a SWE at [Nymbus](https://nymbus.com/). I enjoy full-stack develo
 ### Projects
 
 [Current] UniSwap - A social media application for college students to connect and buy, sell, and exchange student tickets. 
-  
-  [Frontend Repo](https://github.com/hudson0123/ticket-swap-frontend) [Backend Repo](https://github.com/hudson0123/ticket-swap-backend)
 
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudson0123&show_icons=true&theme=dark&hide=contribs,pr)
   
