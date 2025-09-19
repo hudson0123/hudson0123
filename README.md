@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hudson O'Donnell
 
-I am currently a SWE at [Talkiatry]([https://www.talkiatry.com/]). I enjoy full-stack development, especially in Python and TypeScript.
+I am currently a SWE at [Talkiatry](https://www.talkiatry.com/). I enjoy full-stack development, especially in Python and TypeScript.
 
 ### Projects
 
